@@ -30,7 +30,7 @@ public class MainScreen extends JavaPlugin {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         if (sender instanceof Player) {
-            if (command.getName().equalsIgnoreCase("pesca")) {
+            if (command.getName().equalsIgnoreCase("join")) {
                 TitleAPI.sendTitle((Player) sender, 15, 25, 15, "§6§lLOBBY", "§fBem-vindo! :D");
                 sender.sendMessage("\n " + (plugin.getConfig().getString("join-message")) + "\n");
                 sender.sendMessage("\n§f " + (plugin.getConfig().getString("join-description")) + "\n");
