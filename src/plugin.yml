@@ -7,5 +7,5 @@ website: www.redescree.com
 description: Plugin (in Java language) created in order to study/deepen the language, as well as joining a development team for Minecraft server systems, among them my favorite, Rede Screen.
 depend: [TitleAPI]
 commands:
-  pesca:
+  join:
     description: When using this command, you will receive, on your screen, a message in the form of title/broadcast", as well as some text information.
