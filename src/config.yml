@@ -1,0 +1,17 @@
+#    _____  ______ _____  ______    _____  _____ _____  ______ ______ _   _
+#   |  __ \|  ____|  __ \|  ____|  / ____|/ ____|  __ \|  ____|  ____| \ | |
+#   | |__) | |__  | |  | | |__    | (___ | |    | |__) | |__  | |__  |  \| |
+#   |  _  /|  __| | |  | |  __|    \___ \| |    |  _  /|  __| |  __| | . ` |
+#   | | \ \| |____| |__| | |____   ____) | |____| | \ \| |____| |____| |\  |
+#   |_|  \_\______|_____/|______| |_____/ \_____|_|  \_\______|______|_| \_|
+
+# Spigot: https://www.spigotmc.org/resources/SOOOON...
+# Discord: LDNzera#8793
+
+# Do not change this setting! | Não altere essa(e) configuração/valor!
+plugin-version: 1.0.2
+
+# Messages sent to the player when the command is used. | Mensagens enviadas ao jogador quando o comando é utilizado.
+join-message: '§6§lBEM-VINDO!'
+join-description: 'Você está prestes a ter a melhor experiência de jogo, esperamos que se divirta!'
+join-website: '§8➜ §fSite: www.redescreen.com'
